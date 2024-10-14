@@ -1,7 +1,7 @@
 
 ### README.md
 
-```markdown
+
 # To Do App - Gerenciamento de Tarefas
 
 Este é um aplicativo simples de gerenciamento de tarefas (to do app) desenvolvido utilizando Node.js, Express, MongoDB, HTML, CSS e JavaScript. Ele permite que os usuários criem, leiam, atualizem e excluam tarefas (CRUD).
